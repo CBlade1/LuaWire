@@ -1,0 +1,6 @@
+.env.local
+storage/*
+!storage/.gitkeep
+.DS_Store
+.idea/
+.vscode/
